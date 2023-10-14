@@ -1,3 +1,6 @@
 public class Main {
-    String name = "Alexandr";
+    public static void main(String[] args) {
+        String name = "Alexandr";
+        System.out.println(name);
+    }
 }
